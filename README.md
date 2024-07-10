@@ -1,4 +1,4 @@
-# svelte-berlin-meetup
+# svelte-berlin
 
 Svelte Berlin is a community of practice with monthy meetings, hybrid in Berlin and online. 
 
