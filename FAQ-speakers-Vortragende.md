@@ -1,3 +1,14 @@
+## Announcement, Ankündigung
+
+- Name 
+- company, Arbeitgeber (optional)
+- titel
+- Teaser, 2-3 sentences/Sätze
+
+With these data we can publish a natty announcement. 
+
+Mit diesen Infos können wir eine schicke Ankündigung veröffentlichen.
+
 ## In german or in english? Auf Deutsch oder Englisch?
 
 At the beginning of the meeting we ask who of those present in person does not understand German. If there are reports, we try to ensure that everyone present understands the content. This could mean, for example, that the speaker gives the lecture in English, or Nika interprets into Polish in a whisper, or whatever is necessary.
@@ -12,7 +23,7 @@ Alles, was in einem aktuellen gängigen Browser angezeigt werden kann, ist ok.
 
 ## 10-45min
 
-The length of the talk should be between 10 and 40 minutes. The speakers are allowed to organize their time freely. Spontaneous shortening/lengthening is also possible; the moderators adapt flexibly.
+The length of the talk should be between 10 and 45 minutes. The speakers are allowed to organize their time freely. Spontaneous shortening/lengthening is also possible; the moderators adapt flexibly.
 
 Länge des Vortrags sollte zwischen 10 und 45 Minuten liegen. Die Vortragenden dürfen ihre Zeit frei gestalten. Spontane Verkürzung/Verlängerung geht auch, die Moderatoren passen sich flexibel an.
 
