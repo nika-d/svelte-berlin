@@ -13,7 +13,7 @@ Schedule your talk in the [issues](https://github.com/nika-d/svelte-berlin/issue
 
 Antonio Sarcevic (Datawrapper): SvelteKit accessibility 
 
-​Fabian Clemenz (Devsuit): Svelte meets Jamstack [240911 Fabian Clemenz.pdf](https://github.com/user-attachments/files/16975314/240911.Fabian.Clemenz.pdf)
+​Fabian Clemenz ([devsuit](https://devsuit.de): Svelte meets Jamstack [240911 Fabian Clemenz.pdf](https://github.com/user-attachments/files/16975314/240911.Fabian.Clemenz.pdf)
 
 ### 17.7.2024
 
