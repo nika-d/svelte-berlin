@@ -1,4 +1,5 @@
-# svelte-berlin
+ # svelte-berlin  ![svelte-berlin-logo](https://github.com/user-attachments/assets/5cc5542e-b216-4815-826c-3335f7401a5d) 
+
 
 Svelte Berlin is a community of practice hybrid in Berlin and online, with meetings every second wednesday of the month. For upcoming dates see [luma](https://lu.ma/charite-berlin-it).
 
