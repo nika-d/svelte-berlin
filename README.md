@@ -11,7 +11,8 @@ Schedule your talk in the [issues](https://github.com/nika-d/svelte-berlin/issue
 
 ### 11.9.2024
 
-Antonio Sarcevic (Datawrapper): SvelteKit accessibility 
+Antonio Sarcevic ([Datawrapper](https://datawrapper.de/)): [SvelteKit & A11y_ Intro & Keyboard Navigation.pdf](https://github.com/user-attachments/files/16979264/SvelteKit.A11y_.Intro.Keyboard.Navigation.pdf)
+
 
 ​Fabian Clemenz ([devsuit](https://devsuit.de)): Svelte meets Jamstack [240911 Fabian Clemenz.pdf](https://github.com/user-attachments/files/16975314/240911.Fabian.Clemenz.pdf)
 
